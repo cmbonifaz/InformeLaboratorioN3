@@ -48,5 +48,6 @@ https://www.youtube.com/watch?v=iPxBZ8tq2-Y
 
 
 #### 6. CONCLUSIONES 
+- El analisis de nodos nos permite conocer los voltajes de cada resistencia sin complicaciones y efectivamente.
 
 #### 7. BIBLIOGRAFÍA
