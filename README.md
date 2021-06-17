@@ -40,7 +40,20 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En el analsisi de nodso  calcularemos
+Mediante en analisis de nodos calculares los volteajes de los nodos analiticamente.
+
+## Nodo A
+
+En este nodo la misma corriente que entra es la misma que sale.
+
+
+## Nodo D
+
+En este nodo la misma corriente que entra es la misma que sale.
+
+## Nodo B
+
+## Nodo C
 
 #### 5. VIDEO
 
