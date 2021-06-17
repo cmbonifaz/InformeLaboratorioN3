@@ -21,9 +21,17 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
 
+![materiales](https://user-images.githubusercontent.com/84586968/122478029-48e1df00-cf8e-11eb-9803-64411d688642.png)
+
 3.2 Implemente el circuito que se presenta en la figura
 
-3.3 Colocar amperimetros en cada una de las mallas del circuito y anotar las mediciones
+![circuito](https://user-images.githubusercontent.com/84586968/122478033-4a130c00-cf8e-11eb-8abe-c998532c942f.png)
+
+![simulado1](https://user-images.githubusercontent.com/84586968/122478034-4a130c00-cf8e-11eb-928b-352b7c78b8d9.png)
+
+3.3 Colocar voltimetros en cada una de los nodos del circuito y anotar las mediciones
+
+![simulado2](https://user-images.githubusercontent.com/84586968/122478032-497a7580-cf8e-11eb-99b0-1c009522b6f5.png)
 
 3.4 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 
 
