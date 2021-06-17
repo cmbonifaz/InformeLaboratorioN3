@@ -75,6 +75,14 @@ Mediantes la suma de corrientes armaremos la ecuacion 2
 
 ![3](https://user-images.githubusercontent.com/84586968/122480282-2c47a600-cf92-11eb-9d9c-6b3a2fce566c.png)
 
+Obtenemos un sistema de ecuaciones:
+
+Resolviendo el sistema obtenemos:
+
+**Calculo de Error*
+
+
+
 #### 5. VIDEO
 
 https://www.youtube.com/watch?v=iPxBZ8tq2-Y
