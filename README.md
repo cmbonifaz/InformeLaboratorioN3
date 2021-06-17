@@ -25,7 +25,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.2 Implemente el circuito que se presenta en la figura
 
-![circuito](https://user-images.githubusercontent.com/84586968/122478033-4a130c00-cf8e-11eb-8abe-c998532c942f.png)
+![circuito](https://user-images.githubusercontent.com/84586968/122478543-33b98000-cf8f-11eb-92d1-de8f97be6f3f.png)
+
 
 ![simulado1](https://user-images.githubusercontent.com/84586968/122478034-4a130c00-cf8e-11eb-928b-352b7c78b8d9.png)
 
