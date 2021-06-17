@@ -35,6 +35,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.4 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 
 
+![tabla](https://user-images.githubusercontent.com/84586968/122478295-c73e8100-cf8e-11eb-8493-eb7c5369f049.png)
+
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 #### 5. VIDEO
