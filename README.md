@@ -39,6 +39,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+En el analsisi de nodso  calcularemos
+
 #### 5. VIDEO
 
 https://www.youtube.com/watch?v=iPxBZ8tq2-Y
