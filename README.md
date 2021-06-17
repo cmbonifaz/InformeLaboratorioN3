@@ -77,11 +77,15 @@ Mediantes la suma de corrientes armaremos la ecuacion 2
 
 Obtenemos un sistema de ecuaciones:
 
+![t1](https://user-images.githubusercontent.com/84586968/122481373-2fdc2c80-cf94-11eb-8466-68ccd8d6240e.png)
+
 Resolviendo el sistema obtenemos:
+
+![t2](https://user-images.githubusercontent.com/84586968/122481372-2f439600-cf94-11eb-94d5-36860fec9c2b.png)
 
 **Calculo de Error*
 
-
+![error](https://user-images.githubusercontent.com/84586968/122481374-2fdc2c80-cf94-11eb-80c6-063d659a18a4.png)
 
 #### 5. VIDEO
 
