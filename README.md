@@ -55,7 +55,7 @@ En este nodo la misma corriente que entra es la misma que sale.
 ![4](https://user-images.githubusercontent.com/84586968/122480285-2ce03c80-cf92-11eb-93a8-a08f88057d83.png)
 
 **Nodo B**
-
+En el analisis de este nodo se toma en cuenta estas corrientes 
 ![2](https://user-images.githubusercontent.com/84586968/122480286-2ce03c80-cf92-11eb-8f47-52f8fa84375f.png)
 
 **Nodo C**
