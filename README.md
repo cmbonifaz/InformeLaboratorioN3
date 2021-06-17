@@ -67,6 +67,12 @@ Mediantes la suma de corrientes armaremos la ecuacion 1
 
 **Nodo C**
 
+En el analisis de este nodo se toma en cuenta estas corrientes 
+
+![nodo c](https://user-images.githubusercontent.com/84586968/122480637-d6273280-cf92-11eb-990c-98eb59a399de.png)
+
+Mediantes la suma de corrientes armaremos la ecuacion 2
+
 ![3](https://user-images.githubusercontent.com/84586968/122480282-2c47a600-cf92-11eb-9d9c-6b3a2fce566c.png)
 
 #### 5. VIDEO
