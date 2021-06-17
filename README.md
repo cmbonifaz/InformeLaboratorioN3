@@ -83,7 +83,7 @@ Resolviendo el sistema obtenemos:
 
 ![t2](https://user-images.githubusercontent.com/84586968/122481372-2f439600-cf94-11eb-94d5-36860fec9c2b.png)
 
-**Calculo de Error*
+**Calculo de Error**
 
 ![error](https://user-images.githubusercontent.com/84586968/122481374-2fdc2c80-cf94-11eb-80c6-063d659a18a4.png)
 
