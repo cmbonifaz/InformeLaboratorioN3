@@ -12,6 +12,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS 
 
+- Comprender los circuitos en serie, así como todos los que se puede calcular en ellos como: resistencia total, corriente, voltaje en cada resistencia usando las leyes que intervienen en los mismo como: ley de ohm y Kirchhoff y como el efecto de carga de amperímetro interviene en un circuito.
+
 #### 2. MARCO TEÓRICO 
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
