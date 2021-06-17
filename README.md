@@ -46,14 +46,21 @@ Mediante en analisis de nodos calculares los volteajes de los nodos analiticamen
 
 En este nodo la misma corriente que entra es la misma que sale.
 
+![1](https://user-images.githubusercontent.com/84586968/122480283-2ce03c80-cf92-11eb-8e4e-a262c4cf1c5f.png)
 
 ## Nodo D
 
 En este nodo la misma corriente que entra es la misma que sale.
 
+![4](https://user-images.githubusercontent.com/84586968/122480285-2ce03c80-cf92-11eb-93a8-a08f88057d83.png)
+
 ## Nodo B
 
+![2](https://user-images.githubusercontent.com/84586968/122480286-2ce03c80-cf92-11eb-8f47-52f8fa84375f.png)
+
 ## Nodo C
+
+![3](https://user-images.githubusercontent.com/84586968/122480282-2c47a600-cf92-11eb-9d9c-6b3a2fce566c.png)
 
 #### 5. VIDEO
 
