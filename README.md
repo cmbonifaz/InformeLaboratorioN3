@@ -100,6 +100,8 @@ https://www.youtube.com/watch?v=iPxBZ8tq2-Y
 #### 6. CONCLUSIONES 
 - El analisis de nodos nos permite conocer los voltajes de cada resistencia sin complicaciones y efectivamente.
 
+- El método del voltaje en los nodos es uno de los dos métodos bien ordenados para resolver un circuito mediante el planteamiento de ecuaciones utilizando principalmente KCL y la ley de Ohm.
+
 #### 7. BIBLIOGRAFÍA
 
 García, A. (2021). Ley de corriente de Kirchhoff: Análisis de nodos - Panama Hitek. Panama Hitek. Recuperado el 17 Junio 2021, de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/.
