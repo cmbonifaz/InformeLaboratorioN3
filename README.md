@@ -13,7 +13,10 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 1. OBJETIVOS 
 
 - Comprender los circuitos en serie, así como todos los que se puede calcular en ellos como: resistencia total, corriente, voltaje en cada resistencia usando las leyes que intervienen en los mismo como: ley de ohm y Kirchhoff y como el efecto de carga de amperímetro interviene en un circuito.
+
 - Analizar y Experimentar el comportamiento de las caidas de voltaje mediante el analisis de nodos.
+
+- Comprender y analizar el concepto de nodo y sus características, así como también su método de resolución de circuitos planos, mediante su respectivo planteamiento de ecuaciones.
 
 #### 2. MARCO TEÓRICO 
 
