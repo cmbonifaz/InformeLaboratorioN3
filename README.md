@@ -98,3 +98,11 @@ https://www.youtube.com/watch?v=iPxBZ8tq2-Y
 - El analisis de nodos nos permite conocer los voltajes de cada resistencia sin complicaciones y efectivamente.
 
 #### 7. BIBLIOGRAFÍA
+
+García, A. (2021). Ley de corriente de Kirchhoff: Análisis de nodos - Panama Hitek. Panama Hitek. Recuperado el 17 June 2021, de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/.
+
+McAllister, W. (2017). El método del voltaje en los nodos (artículo) | Khan Academy. Khan Academy. Recuperado el 17 June 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method.
+
+Salazar, A. (2014). ANÁLISIS POR NODOS Y MALLAS. Wwwprof.uniandes.edu.co. Recuperado el 17 June 2021, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf.
+
+▷ CIRCUITOS ELÉCTRICOS :【ANALISIS DE NODOS】. SENSORICX. (2017). Recuperado el 17 June 2021, de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/.
